@@ -7,3 +7,6 @@ There is a mistake on line 14, change the spelling 'Correct Spelling'
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
+``` javascript
+let WelcomeMessage = "Hello, world!";
+```
