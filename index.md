@@ -10,3 +10,6 @@ There is a mistake on line 14, change the spelling 'Correct Spelling'
 ``` javascript
 let WelcomeMessage = "Hello, world!";
 ```
+
+- [ ] Checklist One
+- [ ] Checklist Two
